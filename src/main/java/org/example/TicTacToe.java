@@ -121,7 +121,7 @@ public class TicTacToe {
         return ' ';
     }
 
-    private static void message() {
+    static void message() {
         System.out.println("bu joy tanlangan");
     }
 }
